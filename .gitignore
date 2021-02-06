@@ -1,0 +1,1880 @@
+
+.GitIgnore_/ACOPC.7z
+.GitIgnore_/dll/__history/File1.cpp.~43~
+.GitIgnore_/dll/__history/File1.cpp.~44~
+.GitIgnore_/dll/__history/File1.cpp.~45~
+.GitIgnore_/dll/__history/File1.cpp.~46~
+.GitIgnore_/dll/__history/File1.cpp.~47~
+.GitIgnore_/dll/__history/File1.cpp.~48~
+.GitIgnore_/dll/__history/File1.cpp.~49~
+.GitIgnore_/dll/__history/File1.cpp.~50~
+.GitIgnore_/dll/__history/File1.cpp.~51~
+.GitIgnore_/dll/__history/File1.cpp.~52~
+.GitIgnore_/dll/__history/visa_dll.cbproj.local.~1~
+.GitIgnore_/dll/__history/visa_dll.cbproj.local.~2~
+.GitIgnore_/dll/File1.cpp
+.GitIgnore_/dll/Release/File1.obj
+.GitIgnore_/dll/Release/visa_dll.#00
+.GitIgnore_/dll/Release/visa_dll..lib
+.GitIgnore_/dll/Release/visa_dll..tds
+.GitIgnore_/dll/Release/visa_dll.map
+.GitIgnore_/dll/Release/visa_dll.pch
+.GitIgnore_/dll/visa_dll.cbproj
+.GitIgnore_/dll/visa_dll.cbproj.local
+.GitIgnore_/dll/visa_dll.res
+.GitIgnore_/Icon_Library/1/7681_-_Integral-512.png
+.GitIgnore_/Icon_Library/1/ArbitraryWaveformGenerator.png
+.GitIgnore_/Icon_Library/1/Biosignal.png
+.GitIgnore_/Icon_Library/1/close2.png
+.GitIgnore_/Icon_Library/1/d3a9ec18a27cbfb472fafb07907933c3_icon.png
+.GitIgnore_/Icon_Library/1/Error.png
+.GitIgnore_/Icon_Library/1/functionGenerator.png
+.GitIgnore_/Icon_Library/1/GPIB Device.png
+.GitIgnore_/Icon_Library/1/GPIB.png
+.GitIgnore_/Icon_Library/1/Help_32.png
+.GitIgnore_/Icon_Library/1/index.png
+.GitIgnore_/Icon_Library/1/light_green.png
+.GitIgnore_/Icon_Library/1/light_red.png
+.GitIgnore_/Icon_Library/1/math-function-log-logarithm-512.png
+.GitIgnore_/Icon_Library/1/math-function-log-logarithm-51211.png
+.GitIgnore_/Icon_Library/1/Network_32.png
+.GitIgnore_/Icon_Library/1/spectrumAnalyzer.png
+.GitIgnore_/Icon_Library/1d.png
+.GitIgnore_/Icon_Library/2d.png
+.GitIgnore_/Icon_Library/3d.png
+.GitIgnore_/Icon_Library/3D_graphics.png
+.GitIgnore_/Icon_Library/abort.png
+.GitIgnore_/Icon_Library/abstract.png
+.GitIgnore_/Icon_Library/AC_Volts.png
+.GitIgnore_/Icon_Library/acceleration.png
+.GitIgnore_/Icon_Library/acquisition.png
+.GitIgnore_/Icon_Library/actor.png
+.GitIgnore_/Icon_Library/actor_large.png
+.GitIgnore_/Icon_Library/actor_nested.png
+.GitIgnore_/Icon_Library/Add.png
+.GitIgnore_/Icon_Library/Add2.png
+.GitIgnore_/Icon_Library/Add_Step.png
+.GitIgnore_/Icon_Library/adjust.png
+.GitIgnore_/Icon_Library/administrator.png
+.GitIgnore_/Icon_Library/advanced2.png
+.GitIgnore_/Icon_Library/AdvancedSmall.png
+.GitIgnore_/Icon_Library/alarm.png
+.GitIgnore_/Icon_Library/algebraic_expression.png
+.GitIgnore_/Icon_Library/alias.png
+.GitIgnore_/Icon_Library/Am.png
+.GitIgnore_/Icon_Library/amplitude.png
+.GitIgnore_/Icon_Library/analog.png
+.GitIgnore_/Icon_Library/analog_input.png
+.GitIgnore_/Icon_Library/analog_output.png
+.GitIgnore_/Icon_Library/Analog_Waveform_Editor.png
+.GitIgnore_/Icon_Library/Analog_Waveform_Editor_16.png
+.GitIgnore_/Icon_Library/Analyze.png
+.GitIgnore_/Icon_Library/ancestor.png
+.GitIgnore_/Icon_Library/apply.png
+.GitIgnore_/Icon_Library/apply_broken.png
+.GitIgnore_/Icon_Library/Approve.png
+.GitIgnore_/Icon_Library/Approve_All.png
+.GitIgnore_/Icon_Library/Approve_okay_check.png
+.GitIgnore_/Icon_Library/Approve_okay_check_16.png
+.GitIgnore_/Icon_Library/arbitrary_sequence.png
+.GitIgnore_/Icon_Library/arbitrary_waveform.png
+.GitIgnore_/Icon_Library/array.png
+.GitIgnore_/Icon_Library/array2.png
+.GitIgnore_/Icon_Library/arrow_curved.png
+.GitIgnore_/Icon_Library/Arrow_Down.png
+.GitIgnore_/Icon_Library/Arrow_Down2.png
+.GitIgnore_/Icon_Library/Arrow_Down3.png
+.GitIgnore_/Icon_Library/arrow_down_small.png
+.GitIgnore_/Icon_Library/Arrow_Left.png
+.GitIgnore_/Icon_Library/Arrow_Left2.png
+.GitIgnore_/Icon_Library/arrow_left_small.png
+.GitIgnore_/Icon_Library/Arrow_Right.png
+.GitIgnore_/Icon_Library/Arrow_Right2.png
+.GitIgnore_/Icon_Library/arrow_right_small.png
+.GitIgnore_/Icon_Library/Arrow_Up.png
+.GitIgnore_/Icon_Library/Arrow_Up2.png
+.GitIgnore_/Icon_Library/Arrow_Up3.png
+.GitIgnore_/Icon_Library/arrow_up_small.png
+.GitIgnore_/Icon_Library/asynchronous.png
+.GitIgnore_/Icon_Library/attachment.png
+.GitIgnore_/Icon_Library/attenuation.png
+.GitIgnore_/Icon_Library/attributes.png
+.GitIgnore_/Icon_Library/attributes2.png
+.GitIgnore_/Icon_Library/audio.png
+.GitIgnore_/Icon_Library/auto_grow.png
+.GitIgnore_/Icon_Library/Auto_Zoom.png
+.GitIgnore_/Icon_Library/autocorrelation.png
+.GitIgnore_/Icon_Library/automation.png
+.GitIgnore_/Icon_Library/automation_32.png
+.GitIgnore_/Icon_Library/autoscale.png
+.GitIgnore_/Icon_Library/Axis.png
+.GitIgnore_/Icon_Library/back.png
+.GitIgnore_/Icon_Library/back2.png
+.GitIgnore_/Icon_Library/back3.png
+.GitIgnore_/Icon_Library/background.png
+.GitIgnore_/Icon_Library/barcode.png
+.GitIgnore_/Icon_Library/battery.png
+.GitIgnore_/Icon_Library/Binary.png
+.GitIgnore_/Icon_Library/Biosignal.png
+.GitIgnore_/Icon_Library/Bistable.png
+.GitIgnore_/Icon_Library/blend.png
+.GitIgnore_/Icon_Library/blend_block.png
+.GitIgnore_/Icon_Library/bluetooth.png
+.GitIgnore_/Icon_Library/Board.png
+.GitIgnore_/Icon_Library/board2.png
+.GitIgnore_/Icon_Library/BodeAnalyzer.png
+.GitIgnore_/Icon_Library/book_closed.png
+.GitIgnore_/Icon_Library/book_closed_32.png
+.GitIgnore_/Icon_Library/book_open.png
+.GitIgnore_/Icon_Library/book_open_32.png
+.GitIgnore_/Icon_Library/Boolean.png
+.GitIgnore_/Icon_Library/Boolean2.png
+.GitIgnore_/Icon_Library/boolean3.png
+.GitIgnore_/Icon_Library/boolean_false.png
+.GitIgnore_/Icon_Library/boolean_true.png
+.GitIgnore_/Icon_Library/breadboard.png
+.GitIgnore_/Icon_Library/breakpoint.png
+.GitIgnore_/Icon_Library/breakpoint2.png
+.GitIgnore_/Icon_Library/Browse_Dir_Path.png
+.GitIgnore_/Icon_Library/Browse_File_Path.png
+.GitIgnore_/Icon_Library/buffer.png
+.GitIgnore_/Icon_Library/Build.png
+.GitIgnore_/Icon_Library/Build_All.png
+.GitIgnore_/Icon_Library/Build_Specs.png
+.GitIgnore_/Icon_Library/burst.png
+.GitIgnore_/Icon_Library/butterworthCoefficients.png
+.GitIgnore_/Icon_Library/button.png
+.GitIgnore_/Icon_Library/button2.png
+.GitIgnore_/Icon_Library/button_small.png
+.GitIgnore_/Icon_Library/Calculator.png
+.GitIgnore_/Icon_Library/Calibrate.png
+.GitIgnore_/Icon_Library/Calibrate_16.png
+.GitIgnore_/Icon_Library/call_parent.png
+.GitIgnore_/Icon_Library/caller.png
+.GitIgnore_/Icon_Library/cam.png
+.GitIgnore_/Icon_Library/camera.png
+.GitIgnore_/Icon_Library/cartesian.png
+.GitIgnore_/Icon_Library/CDAQ_Chassis.png
+.GitIgnore_/Icon_Library/CDAQ_Module.png
+.GitIgnore_/Icon_Library/cellphone.png
+.GitIgnore_/Icon_Library/certificate.png
+.GitIgnore_/Icon_Library/Channel.png
+.GitIgnore_/Icon_Library/channel2.png
+.GitIgnore_/Icon_Library/Channel_1Elt.png
+.GitIgnore_/Icon_Library/Channel_Abort.png
+.GitIgnore_/Icon_Library/Channel_Accumulator.png
+.GitIgnore_/Icon_Library/Channel_Attempt.png
+.GitIgnore_/Icon_Library/Channel_Conditional.png
+.GitIgnore_/Icon_Library/Channel_Detailed.png
+.GitIgnore_/Icon_Library/Channel_HighSpeed.png
+.GitIgnore_/Icon_Library/Channel_in.png
+.GitIgnore_/Icon_Library/Channel_Lossy.png
+.GitIgnore_/Icon_Library/Channel_Messenger.png
+.GitIgnore_/Icon_Library/Channel_Multiple.png
+.GitIgnore_/Icon_Library/Channel_OneElement.png
+.GitIgnore_/Icon_Library/Channel_ReadChannelBorder.png
+.GitIgnore_/Icon_Library/Channel_ReadTag.png
+.GitIgnore_/Icon_Library/Channel_Scheduled.png
+.GitIgnore_/Icon_Library/Channel_Sentinel.png
+.GitIgnore_/Icon_Library/Channel_Stream.png
+.GitIgnore_/Icon_Library/Channel_Tag.png
+.GitIgnore_/Icon_Library/Channel_TimeOut.png
+.GitIgnore_/Icon_Library/Channel_View.png
+.GitIgnore_/Icon_Library/Channel_WriteChannelBorder.png
+.GitIgnore_/Icon_Library/ChannelAPI.png
+.GitIgnore_/Icon_Library/character.png
+.GitIgnore_/Icon_Library/Chassis.png
+.GitIgnore_/Icon_Library/chassis2.png
+.GitIgnore_/Icon_Library/Chassis_small.png
+.GitIgnore_/Icon_Library/check.png
+.GitIgnore_/Icon_Library/checkbox_off.png
+.GitIgnore_/Icon_Library/checkbox_on.png
+.GitIgnore_/Icon_Library/child.png
+.GitIgnore_/Icon_Library/ChnGroup.png
+.GitIgnore_/Icon_Library/ChnNum.png
+.GitIgnore_/Icon_Library/ChnText.png
+.GitIgnore_/Icon_Library/ChnTime.png
+.GitIgnore_/Icon_Library/ChnWave.png
+.GitIgnore_/Icon_Library/choice.png
+.GitIgnore_/Icon_Library/circularArrow.png
+.GitIgnore_/Icon_Library/circularArrow_16.png
+.GitIgnore_/Icon_Library/circularArrow_24.png
+.GitIgnore_/Icon_Library/clear2.png
+.GitIgnore_/Icon_Library/Clear3.png
+.GitIgnore_/Icon_Library/client.png
+.GitIgnore_/Icon_Library/close2.png
+.GitIgnore_/Icon_Library/Close3.png
+.GitIgnore_/Icon_Library/cluster.png
+.GitIgnore_/Icon_Library/cluster2.png
+.GitIgnore_/Icon_Library/cluster3.png
+.GitIgnore_/Icon_Library/code.png
+.GitIgnore_/Icon_Library/Coefficient.png
+.GitIgnore_/Icon_Library/CollapseAll.png
+.GitIgnore_/Icon_Library/CollapseAll_32.png
+.GitIgnore_/Icon_Library/color.png
+.GitIgnore_/Icon_Library/color2.png
+.GitIgnore_/Icon_Library/ColorPicker.png
+.GitIgnore_/Icon_Library/column.png
+.GitIgnore_/Icon_Library/column2.png
+.GitIgnore_/Icon_Library/column2_small.png
+.GitIgnore_/Icon_Library/combobox.png
+.GitIgnore_/Icon_Library/compass.png
+.GitIgnore_/Icon_Library/compile.png
+.GitIgnore_/Icon_Library/complete.png
+.GitIgnore_/Icon_Library/complex_number.png
+.GitIgnore_/Icon_Library/compression.png
+.GitIgnore_/Icon_Library/computer.png
+.GitIgnore_/Icon_Library/computer2.png
+.GitIgnore_/Icon_Library/computer3.png
+.GitIgnore_/Icon_Library/computer3_32.png
+.GitIgnore_/Icon_Library/Computers.png
+.GitIgnore_/Icon_Library/computers2.png
+.GitIgnore_/Icon_Library/concrete.png
+.GitIgnore_/Icon_Library/condition.png
+.GitIgnore_/Icon_Library/configurationList.png
+.GitIgnore_/Icon_Library/configure.png
+.GitIgnore_/Icon_Library/Confine_Window.png
+.GitIgnore_/Icon_Library/connect.png
+.GitIgnore_/Icon_Library/console.png
+.GitIgnore_/Icon_Library/Constant.png
+.GitIgnore_/Icon_Library/continuous.png
+.GitIgnore_/Icon_Library/Contract.png
+.GitIgnore_/Icon_Library/control.png
+.GitIgnore_/Icon_Library/control2.png
+.GitIgnore_/Icon_Library/control3.png
+.GitIgnore_/Icon_Library/control_dial.png
+.GitIgnore_/Icon_Library/control_template.png
+.GitIgnore_/Icon_Library/convolution.png
+.GitIgnore_/Icon_Library/core.png
+.GitIgnore_/Icon_Library/Core2.png
+.GitIgnore_/Icon_Library/cosine.png
+.GitIgnore_/Icon_Library/cotangent.png
+.GitIgnore_/Icon_Library/counter.png
+.GitIgnore_/Icon_Library/CPU.png
+.GitIgnore_/Icon_Library/cpu2.png
+.GitIgnore_/Icon_Library/Create.png
+.GitIgnore_/Icon_Library/cRIO_Controller.png
+.GitIgnore_/Icon_Library/cRIO_Controller_32.png
+.GitIgnore_/Icon_Library/cRIO_Network_Controller.png
+.GitIgnore_/Icon_Library/cRIOEmbeddedChassis.png
+.GitIgnore_/Icon_Library/crosscorrelation.png
+.GitIgnore_/Icon_Library/Current.png
+.GitIgnore_/Icon_Library/currentProbe.png
+.GitIgnore_/Icon_Library/custom.png
+.GitIgnore_/Icon_Library/Cut.png
+.GitIgnore_/Icon_Library/cvi.png
+.GitIgnore_/Icon_Library/cvi_16.png
+.GitIgnore_/Icon_Library/cvi_32.png
+.GitIgnore_/Icon_Library/cvi_library.png
+.GitIgnore_/Icon_Library/CVS_target.png
+.GitIgnore_/Icon_Library/CVS_Target_new.png
+.GitIgnore_/Icon_Library/CVS_Target_new_16.png
+.GitIgnore_/Icon_Library/CVS_Target_new_48.png
+.GitIgnore_/Icon_Library/DAQmx.png
+.GitIgnore_/Icon_Library/DAQmx_Base.png
+.GitIgnore_/Icon_Library/data.png
+.GitIgnore_/Icon_Library/data_set.png
+.GitIgnore_/Icon_Library/Database.png
+.GitIgnore_/Icon_Library/database2.png
+.GitIgnore_/Icon_Library/datafinder.png
+.GitIgnore_/Icon_Library/datalog.png
+.GitIgnore_/Icon_Library/Datasocket.png
+.GitIgnore_/Icon_Library/datastream.png
+.GitIgnore_/Icon_Library/dataValueReference.png
+.GitIgnore_/Icon_Library/dataValueReference_small.png
+.GitIgnore_/Icon_Library/datetime.png
+.GitIgnore_/Icon_Library/dbl.png
+.GitIgnore_/Icon_Library/DC_Volts.png
+.GitIgnore_/Icon_Library/dead_zone.png
+.GitIgnore_/Icon_Library/Deadline.png
+.GitIgnore_/Icon_Library/Debug.png
+.GitIgnore_/Icon_Library/decimate.png
+.GitIgnore_/Icon_Library/decorations.png
+.GitIgnore_/Icon_Library/Deep_History.png
+.GitIgnore_/Icon_Library/default.png
+.GitIgnore_/Icon_Library/default_value.png
+.GitIgnore_/Icon_Library/defragment.png
+.GitIgnore_/Icon_Library/delay.png
+.GitIgnore_/Icon_Library/delay2.png
+.GitIgnore_/Icon_Library/Delay_Small.png
+.GitIgnore_/Icon_Library/delete.png
+.GitIgnore_/Icon_Library/DeleteLayer.png
+.GitIgnore_/Icon_Library/dependency.png
+.GitIgnore_/Icon_Library/depermute.png
+.GitIgnore_/Icon_Library/descendant.png
+.GitIgnore_/Icon_Library/description.png
+.GitIgnore_/Icon_Library/deselect_all.png
+.GitIgnore_/Icon_Library/Desktop.png
+.GitIgnore_/Icon_Library/Desktop_RT_target.png
+.GitIgnore_/Icon_Library/destroy.png
+.GitIgnore_/Icon_Library/Device.png
+.GitIgnore_/Icon_Library/Device2.png
+.GitIgnore_/Icon_Library/diadem.png
+.GitIgnore_/Icon_Library/diadem_16.png
+.GitIgnore_/Icon_Library/diadem_32.png
+.GitIgnore_/Icon_Library/dial.png
+.GitIgnore_/Icon_Library/Dialog.png
+.GitIgnore_/Icon_Library/dialog2.png
+.GitIgnore_/Icon_Library/digital.png
+.GitIgnore_/Icon_Library/Digital_Input.png
+.GitIgnore_/Icon_Library/digital_IO.png
+.GitIgnore_/Icon_Library/Digital_MultiMeter.png
+.GitIgnore_/Icon_Library/Digital_MultiMeter_16.png
+.GitIgnore_/Icon_Library/Digital_Output.png
+.GitIgnore_/Icon_Library/digital_port.png
+.GitIgnore_/Icon_Library/Digital_Waveform_Editor.png
+.GitIgnore_/Icon_Library/Digital_Waveform_Editor_16.png
+.GitIgnore_/Icon_Library/digitalModulation.png
+.GitIgnore_/Icon_Library/digitalMultiMeter.png
+.GitIgnore_/Icon_Library/DigitalSignalAnalyzer.png
+.GitIgnore_/Icon_Library/digitizer.png
+.GitIgnore_/Icon_Library/Diode.png
+.GitIgnore_/Icon_Library/directCurrent_DC.png
+.GitIgnore_/Icon_Library/disable.png
+.GitIgnore_/Icon_Library/disabled.png
+.GitIgnore_/Icon_Library/disconnect.png
+.GitIgnore_/Icon_Library/Discussion.png
+.GitIgnore_/Icon_Library/discussion_forum.png
+.GitIgnore_/Icon_Library/discussion_forum_32.png
+.GitIgnore_/Icon_Library/display.png
+.GitIgnore_/Icon_Library/Distortion.png
+.GitIgnore_/Icon_Library/divide.png
+.GitIgnore_/Icon_Library/DLL.png
+.GitIgnore_/Icon_Library/DMA_directMemoryAccess.png
+.GitIgnore_/Icon_Library/do.png
+.GitIgnore_/Icon_Library/document.png
+.GitIgnore_/Icon_Library/document_32.png
+.GitIgnore_/Icon_Library/downconverter.png
+.GitIgnore_/Icon_Library/download.png
+.GitIgnore_/Icon_Library/download2.png
+.GitIgnore_/Icon_Library/draw.png
+.GitIgnore_/Icon_Library/drop.png
+.GitIgnore_/Icon_Library/DSP_Target.png
+.GitIgnore_/Icon_Library/DVR.png
+.GitIgnore_/Icon_Library/dynamicVariable.png
+.GitIgnore_/Icon_Library/ECU.png
+.GitIgnore_/Icon_Library/Edit.png
+.GitIgnore_/Icon_Library/Edit2.png
+.GitIgnore_/Icon_Library/EditCopy.png
+.GitIgnore_/Icon_Library/EditCut.png
+.GitIgnore_/Icon_Library/EditDelete.png
+.GitIgnore_/Icon_Library/EditOpen.png
+.GitIgnore_/Icon_Library/EditPaste.png
+.GitIgnore_/Icon_Library/EditRedo.png
+.GitIgnore_/Icon_Library/EditUndo.png
+.GitIgnore_/Icon_Library/Ellipse.png
+.GitIgnore_/Icon_Library/EllipseFilled.png
+.GitIgnore_/Icon_Library/Emergency.png
+.GitIgnore_/Icon_Library/enable_shutdown.png
+.GitIgnore_/Icon_Library/encoder.png
+.GitIgnore_/Icon_Library/encoder2.png
+.GitIgnore_/Icon_Library/enum.png
+.GitIgnore_/Icon_Library/enum2.png
+.GitIgnore_/Icon_Library/Environmental_Variable.png
+.GitIgnore_/Icon_Library/Eraser.png
+.GitIgnore_/Icon_Library/Error.png
+.GitIgnore_/Icon_Library/error2.png
+.GitIgnore_/Icon_Library/error2_32.png
+.GitIgnore_/Icon_Library/Error_16.png
+.GitIgnore_/Icon_Library/ErrorMessage.png
+.GitIgnore_/Icon_Library/ErrorOverlay.png
+.GitIgnore_/Icon_Library/EtherCAT.png
+.GitIgnore_/Icon_Library/ethernet.png
+.GitIgnore_/Icon_Library/Event.png
+.GitIgnore_/Icon_Library/Event_Log.png
+.GitIgnore_/Icon_Library/EVS_target.png
+.GitIgnore_/Icon_Library/example.png
+.GitIgnore_/Icon_Library/example_motion.png
+.GitIgnore_/Icon_Library/EXE.png
+.GitIgnore_/Icon_Library/Execution.png
+.GitIgnore_/Icon_Library/executionHighlighting_on.png
+.GitIgnore_/Icon_Library/exedisplay.png
+.GitIgnore_/Icon_Library/Exit.png
+.GitIgnore_/Icon_Library/exit2.png
+.GitIgnore_/Icon_Library/exit2_16.png
+.GitIgnore_/Icon_Library/Expand.png
+.GitIgnore_/Icon_Library/ExpandAll.png
+.GitIgnore_/Icon_Library/ExpandAll_32.png
+.GitIgnore_/Icon_Library/expansion.png
+.GitIgnore_/Icon_Library/export.png
+.GitIgnore_/Icon_Library/expressionbrowse.png
+.GitIgnore_/Icon_Library/Fail.png
+.GitIgnore_/Icon_Library/fail2.png
+.GitIgnore_/Icon_Library/fail2_16.png
+.GitIgnore_/Icon_Library/fail2_48.png
+.GitIgnore_/Icon_Library/fail_32.png
+.GitIgnore_/Icon_Library/fan.png
+.GitIgnore_/Icon_Library/fan2.png
+.GitIgnore_/Icon_Library/fan_small.png
+.GitIgnore_/Icon_Library/fault.png
+.GitIgnore_/Icon_Library/fetch.png
+.GitIgnore_/Icon_Library/FFT.png
+.GitIgnore_/Icon_Library/Fieldbus.png
+.GitIgnore_/Icon_Library/FieldbusDevice.png
+.GitIgnore_/Icon_Library/Fieldpoint.png
+.GitIgnore_/Icon_Library/FieldPoint_32.png
+.GitIgnore_/Icon_Library/FIFO.png
+.GitIgnore_/Icon_Library/file.png
+.GitIgnore_/Icon_Library/file2.png
+.GitIgnore_/Icon_Library/file_not_found.png
+.GitIgnore_/Icon_Library/Fill.png
+.GitIgnore_/Icon_Library/FillColor.png
+.GitIgnore_/Icon_Library/Filter.png
+.GitIgnore_/Icon_Library/filter2.png
+.GitIgnore_/Icon_Library/find.png
+.GitIgnore_/Icon_Library/FIND2.png
+.GitIgnore_/Icon_Library/find_next.png
+.GitIgnore_/Icon_Library/find_prev.png
+.GitIgnore_/Icon_Library/firewire.png
+.GitIgnore_/Icon_Library/firmware.png
+.GitIgnore_/Icon_Library/fixed_point.png
+.GitIgnore_/Icon_Library/flag.png
+.GitIgnore_/Icon_Library/flatten.png
+.GitIgnore_/Icon_Library/Flip.png
+.GitIgnore_/Icon_Library/flush.png
+.GitIgnore_/Icon_Library/Fm.png
+.GitIgnore_/Icon_Library/Folder_closed.png
+.GitIgnore_/Icon_Library/Folder_open.png
+.GitIgnore_/Icon_Library/Folder_rename.png
+.GitIgnore_/Icon_Library/font.png
+.GitIgnore_/Icon_Library/font2.png
+.GitIgnore_/Icon_Library/font_size.png
+.GitIgnore_/Icon_Library/foreground.png
+.GitIgnore_/Icon_Library/Fork.png
+.GitIgnore_/Icon_Library/forward.png
+.GitIgnore_/Icon_Library/forward2.png
+.GitIgnore_/Icon_Library/FPGA.png
+.GitIgnore_/Icon_Library/fpga_small.png
+.GitIgnore_/Icon_Library/FPGA_target.png
+.GitIgnore_/Icon_Library/frame.png
+.GitIgnore_/Icon_Library/Frequency.png
+.GitIgnore_/Icon_Library/frontPanel.png
+.GitIgnore_/Icon_Library/fuelGauge.png
+.GitIgnore_/Icon_Library/function.png
+.GitIgnore_/Icon_Library/Function_Generator.png
+.GitIgnore_/Icon_Library/Function_Generator_16.png
+.GitIgnore_/Icon_Library/functionGenerator.png
+.GitIgnore_/Icon_Library/gain.png
+.GitIgnore_/Icon_Library/gear.png
+.GitIgnore_/Icon_Library/gear2.png
+.GitIgnore_/Icon_Library/gearTooth.png
+.GitIgnore_/Icon_Library/generic_target.png
+.GitIgnore_/Icon_Library/get.png
+.GitIgnore_/Icon_Library/Global_Channel.png
+.GitIgnore_/Icon_Library/GlobalVariable.png
+.GitIgnore_/Icon_Library/go_to.png
+.GitIgnore_/Icon_Library/goto.png
+.GitIgnore_/Icon_Library/gotoBeginning.png
+.GitIgnore_/Icon_Library/gotoEnd.png
+.GitIgnore_/Icon_Library/GPIB Device.png
+.GitIgnore_/Icon_Library/GPIB.png
+.GitIgnore_/Icon_Library/GPIB_Port.png
+.GitIgnore_/Icon_Library/GPIO_port.png
+.GitIgnore_/Icon_Library/GPS.png
+.GitIgnore_/Icon_Library/GPS_32.png
+.GitIgnore_/Icon_Library/grab.png
+.GitIgnore_/Icon_Library/graph.png
+.GitIgnore_/Icon_Library/green_light.png
+.GitIgnore_/Icon_Library/greenLight2.png
+.GitIgnore_/Icon_Library/greenLight2_32.png
+.GitIgnore_/Icon_Library/grey_light_off.png
+.GitIgnore_/Icon_Library/greyscale.png
+.GitIgnore_/Icon_Library/group.png
+.GitIgnore_/Icon_Library/group2.png
+.GitIgnore_/Icon_Library/group_small.png
+.GitIgnore_/Icon_Library/grouping.png
+.GitIgnore_/Icon_Library/GUID.png
+.GitIgnore_/Icon_Library/gyro.png
+.GitIgnore_/Icon_Library/hardware.png
+.GitIgnore_/Icon_Library/Help.png
+.GitIgnore_/Icon_Library/help1.png
+.GitIgnore_/Icon_Library/help1_32.png
+.GitIgnore_/Icon_Library/help2_16.png
+.GitIgnore_/Icon_Library/help2_32.png
+.GitIgnore_/Icon_Library/Help_32.png
+.GitIgnore_/Icon_Library/HelpButton.png
+.GitIgnore_/Icon_Library/Hide_Details.png
+.GitIgnore_/Icon_Library/hierarchy.png
+.GitIgnore_/Icon_Library/Histogram.png
+.GitIgnore_/Icon_Library/home.png
+.GitIgnore_/Icon_Library/home2.png
+.GitIgnore_/Icon_Library/home2_32.png
+.GitIgnore_/Icon_Library/hyperlink.png
+.GitIgnore_/Icon_Library/I32.png
+.GitIgnore_/Icon_Library/icon-community.png
+.GitIgnore_/Icon_Library/IF.png
+.GitIgnore_/Icon_Library/if_else.png
+.GitIgnore_/Icon_Library/image.png
+.GitIgnore_/Icon_Library/impairment.png
+.GitIgnore_/Icon_Library/impedance.png
+.GitIgnore_/Icon_Library/ImpedanceAnalyzer.png
+.GitIgnore_/Icon_Library/import.png
+.GitIgnore_/Icon_Library/indicator.png
+.GitIgnore_/Icon_Library/info_12.png
+.GitIgnore_/Icon_Library/information.png
+.GitIgnore_/Icon_Library/information2.png
+.GitIgnore_/Icon_Library/information_32.png
+.GitIgnore_/Icon_Library/Initial.png
+.GitIgnore_/Icon_Library/Initialize.png
+.GitIgnore_/Icon_Library/Initialize2.png
+.GitIgnore_/Icon_Library/InitializeWithOptions.png
+.GitIgnore_/Icon_Library/initiate.png
+.GitIgnore_/Icon_Library/input.png
+.GitIgnore_/Icon_Library/Insert_Above.png
+.GitIgnore_/Icon_Library/Insert_After.png
+.GitIgnore_/Icon_Library/Insert_Before.png
+.GitIgnore_/Icon_Library/Insert_Below.png
+.GitIgnore_/Icon_Library/Insert_Pos_X.png
+.GitIgnore_/Icon_Library/Insert_Pos_Y.png
+.GitIgnore_/Icon_Library/Installer.png
+.GitIgnore_/Icon_Library/Installer_32.png
+.GitIgnore_/Icon_Library/Installer_48.png
+.GitIgnore_/Icon_Library/instrument.png
+.GitIgnore_/Icon_Library/InstrumentIO.png
+.GitIgnore_/Icon_Library/integrator.png
+.GitIgnore_/Icon_Library/intensity.png
+.GitIgnore_/Icon_Library/interchange.png
+.GitIgnore_/Icon_Library/Internet.png
+.GitIgnore_/Icon_Library/interpolate.png
+.GitIgnore_/Icon_Library/interrupt.png
+.GitIgnore_/Icon_Library/interrupt2.png
+.GitIgnore_/Icon_Library/IO_Server.png
+.GitIgnore_/Icon_Library/IOvariable.png
+.GitIgnore_/Icon_Library/IQ.png
+.GitIgnore_/Icon_Library/ir_sensor.png
+.GitIgnore_/Icon_Library/Join.png
+.GitIgnore_/Icon_Library/joystick.png
+.GitIgnore_/Icon_Library/Junction.png
+.GitIgnore_/Icon_Library/keep.png
+.GitIgnore_/Icon_Library/key.png
+.GitIgnore_/Icon_Library/key2.png
+.GitIgnore_/Icon_Library/keyboard.png
+.GitIgnore_/Icon_Library/keypad.png
+.GitIgnore_/Icon_Library/knob.png
+.GitIgnore_/Icon_Library/knob_32.png
+.GitIgnore_/Icon_Library/label.png
+.GitIgnore_/Icon_Library/label2.png
+.GitIgnore_/Icon_Library/labview.png
+.GitIgnore_/Icon_Library/LabVIEW2.png
+.GitIgnore_/Icon_Library/labview_256.png
+.GitIgnore_/Icon_Library/labview_32.png
+.GitIgnore_/Icon_Library/LabVIEW_object.png
+.GitIgnore_/Icon_Library/LabVIEWRT_logo.png
+.GitIgnore_/Icon_Library/laptop.png
+.GitIgnore_/Icon_Library/lastAck.png
+.GitIgnore_/Icon_Library/launched_VI.png
+.GitIgnore_/Icon_Library/Layers.png
+.GitIgnore_/Icon_Library/LCD.png
+.GitIgnore_/Icon_Library/LCD2.png
+.GitIgnore_/Icon_Library/LED.png
+.GitIgnore_/Icon_Library/LED_blink.png
+.GitIgnore_/Icon_Library/library.png
+.GitIgnore_/Icon_Library/license.png
+.GitIgnore_/Icon_Library/light_gray.png
+.GitIgnore_/Icon_Library/light_gray_16.png
+.GitIgnore_/Icon_Library/light_green.png
+.GitIgnore_/Icon_Library/light_green_16.png
+.GitIgnore_/Icon_Library/light_red.png
+.GitIgnore_/Icon_Library/light_red_16.png
+.GitIgnore_/Icon_Library/light_yellow.png
+.GitIgnore_/Icon_Library/light_yellow_16.png
+.GitIgnore_/Icon_Library/limiter.png
+.GitIgnore_/Icon_Library/Line.png
+.GitIgnore_/Icon_Library/link.png
+.GitIgnore_/Icon_Library/Link2.png
+.GitIgnore_/Icon_Library/link2_small.png
+.GitIgnore_/Icon_Library/List.png
+.GitIgnore_/Icon_Library/list_box.png
+.GitIgnore_/Icon_Library/llb.png
+.GitIgnore_/Icon_Library/llb_32.png
+.GitIgnore_/Icon_Library/locate.png
+.GitIgnore_/Icon_Library/location.png
+.GitIgnore_/Icon_Library/lock.png
+.GitIgnore_/Icon_Library/lock2.png
+.GitIgnore_/Icon_Library/logarithmic.png
+.GitIgnore_/Icon_Library/LoggedData.png
+.GitIgnore_/Icon_Library/loop.png
+.GitIgnore_/Icon_Library/LUT_LookUpTable.png
+.GitIgnore_/Icon_Library/LV_Virtual_Folder.png
+.GitIgnore_/Icon_Library/LV_Virtual_Folder_open.png
+.GitIgnore_/Icon_Library/lvclass.png
+.GitIgnore_/Icon_Library/lvclass2.png
+.GitIgnore_/Icon_Library/lvclass_32.png
+.GitIgnore_/Icon_Library/LVError.png
+.GitIgnore_/Icon_Library/lvlibrary.png
+.GitIgnore_/Icon_Library/lvlibrary_32.png
+.GitIgnore_/Icon_Library/lvproject.png
+.GitIgnore_/Icon_Library/lvproject_32.png
+.GitIgnore_/Icon_Library/lvsc.png
+.GitIgnore_/Icon_Library/lvsc_32.png
+.GitIgnore_/Icon_Library/MagnifyingGlass.png
+.GitIgnore_/Icon_Library/MagnifyingGlass_24.png
+.GitIgnore_/Icon_Library/Marker.png
+.GitIgnore_/Icon_Library/Math.png
+.GitIgnore_/Icon_Library/Matrix.png
+.GitIgnore_/Icon_Library/matrix2.png
+.GitIgnore_/Icon_Library/MAX.png
+.GitIgnore_/Icon_Library/MAX_16.png
+.GitIgnore_/Icon_Library/MAX_48.png
+.GitIgnore_/Icon_Library/Max_n_Min.png
+.GitIgnore_/Icon_Library/Maximize_16x16.png
+.GitIgnore_/Icon_Library/maximum.png
+.GitIgnore_/Icon_Library/mean.png
+.GitIgnore_/Icon_Library/Measurement2.png
+.GitIgnore_/Icon_Library/MeasurementStudio_16.png
+.GitIgnore_/Icon_Library/MeasurementStudio_32.png
+.GitIgnore_/Icon_Library/MeasurementStudio_48.png
+.GitIgnore_/Icon_Library/Media-CD-icon.png
+.GitIgnore_/Icon_Library/MedicalImage.png
+.GitIgnore_/Icon_Library/Memory.png
+.GitIgnore_/Icon_Library/Memory2.png
+.GitIgnore_/Icon_Library/memory3.png
+.GitIgnore_/Icon_Library/memory_block.png
+.GitIgnore_/Icon_Library/MemoryUsage.png
+.GitIgnore_/Icon_Library/menu.png
+.GitIgnore_/Icon_Library/menu2.png
+.GitIgnore_/Icon_Library/mesh.png
+.GitIgnore_/Icon_Library/meshPlot.png
+.GitIgnore_/Icon_Library/message.png
+.GitIgnore_/Icon_Library/messaging.png
+.GitIgnore_/Icon_Library/meter.png
+.GitIgnore_/Icon_Library/meter2.png
+.GitIgnore_/Icon_Library/meter_32.png
+.GitIgnore_/Icon_Library/method.png
+.GitIgnore_/Icon_Library/minimum.png
+.GitIgnore_/Icon_Library/MMC_card.png
+.GitIgnore_/Icon_Library/MODE2.png
+.GitIgnore_/Icon_Library/model.png
+.GitIgnore_/Icon_Library/Monitor.png
+.GitIgnore_/Icon_Library/monitor2_16.png
+.GitIgnore_/Icon_Library/monitor2_32.png
+.GitIgnore_/Icon_Library/monitor3_16.png
+.GitIgnore_/Icon_Library/monitor3_32.png
+.GitIgnore_/Icon_Library/monitor_angled.png
+.GitIgnore_/Icon_Library/monitor_computer.png
+.GitIgnore_/Icon_Library/motor.png
+.GitIgnore_/Icon_Library/motor2.png
+.GitIgnore_/Icon_Library/motor_DC.png
+.GitIgnore_/Icon_Library/motor_DC_32.png
+.GitIgnore_/Icon_Library/Mouse.png
+.GitIgnore_/Icon_Library/Move.png
+.GitIgnore_/Icon_Library/move_arc.png
+.GitIgnore_/Icon_Library/Move_Backward.png
+.GitIgnore_/Icon_Library/move_contour.png
+.GitIgnore_/Icon_Library/Move_Edges.png
+.GitIgnore_/Icon_Library/Move_Forward.png
+.GitIgnore_/Icon_Library/move_straight_line.png
+.GitIgnore_/Icon_Library/MoveDown.png
+.GitIgnore_/Icon_Library/MoveUp.png
+.GitIgnore_/Icon_Library/movie.png
+.GitIgnore_/Icon_Library/MsgBox.png
+.GitIgnore_/Icon_Library/multi_point.png
+.GitIgnore_/Icon_Library/multiplexer.png
+.GitIgnore_/Icon_Library/Multiply.png
+.GitIgnore_/Icon_Library/Multisim.png
+.GitIgnore_/Icon_Library/mxieChassis.png
+.GitIgnore_/Icon_Library/My_Computer_32.png
+.GitIgnore_/Icon_Library/MyComputer.png
+.GitIgnore_/Icon_Library/MyComputer_48.png
+.GitIgnore_/Icon_Library/myRIO 1900.png
+.GitIgnore_/Icon_Library/myRIO 1950.png
+.GitIgnore_/Icon_Library/myRIO_16.png
+.GitIgnore_/Icon_Library/Network.png
+.GitIgnore_/Icon_Library/network2.png
+.GitIgnore_/Icon_Library/network3.png
+.GitIgnore_/Icon_Library/Network_32.png
+.GitIgnore_/Icon_Library/networkCable.png
+.GitIgnore_/Icon_Library/networkCable_24.png
+.GitIgnore_/Icon_Library/networkCable_32.png
+.GitIgnore_/Icon_Library/networkDevices.png
+.GitIgnore_/Icon_Library/NetworkVariable.png
+.GitIgnore_/Icon_Library/new.png
+.GitIgnore_/Icon_Library/New_File.png
+.GitIgnore_/Icon_Library/New_Folder.png
+.GitIgnore_/Icon_Library/NewFile.png
+.GitIgnore_/Icon_Library/NewLayer.png
+.GitIgnore_/Icon_Library/NewWindow.png
+.GitIgnore_/Icon_Library/nextPage.png
+.GitIgnore_/Icon_Library/NI-DMM.png
+.GitIgnore_/Icon_Library/NI-ELVIS_Palette.png
+.GitIgnore_/Icon_Library/NI-FGEN.png
+.GitIgnore_/Icon_Library/NI-RFSA.png
+.GitIgnore_/Icon_Library/NI-RFSA_16.png
+.GitIgnore_/Icon_Library/NI-RFSG.png
+.GitIgnore_/Icon_Library/NI-SCOPE.png
+.GitIgnore_/Icon_Library/NI-SWITCH.png
+.GitIgnore_/Icon_Library/NI_eagle_xp.png
+.GitIgnore_/Icon_Library/NI_eagle_xp_16.png
+.GitIgnore_/Icon_Library/NI_eagle_xp_48.png
+.GitIgnore_/Icon_Library/NI_HSDIO.png
+.GitIgnore_/Icon_Library/NI_LV_SignalExpress.png
+.GitIgnore_/Icon_Library/NI_LV_SignalExpress_16.png
+.GitIgnore_/Icon_Library/NI_LV_SignalExpress_32.png
+.GitIgnore_/Icon_Library/NI_LV_SignalExpress_48.png
+.GitIgnore_/Icon_Library/NI_Volume_License_Manager.png
+.GitIgnore_/Icon_Library/NI_Volume_License_Manager_16.png
+.GitIgnore_/Icon_Library/NIEagle.png
+.GitIgnore_/Icon_Library/NIMotion.png
+.GitIgnore_/Icon_Library/NIMotion_64.png
+.GitIgnore_/Icon_Library/NIVISA_DriverDevelopmentWizard.png
+.GitIgnore_/Icon_Library/NIVISA_DriverDevelopmentWizard_128.png
+.GitIgnore_/Icon_Library/Not.png
+.GitIgnore_/Icon_Library/notchCoefficients.png
+.GitIgnore_/Icon_Library/notification.png
+.GitIgnore_/Icon_Library/Notifier.png
+.GitIgnore_/Icon_Library/notVisible.png
+.GitIgnore_/Icon_Library/NumberOfAverages.png
+.GitIgnore_/Icon_Library/numeric.png
+.GitIgnore_/Icon_Library/object_small.png
+.GitIgnore_/Icon_Library/occurrence.png
+.GitIgnore_/Icon_Library/offset.png
+.GitIgnore_/Icon_Library/offset2.png
+.GitIgnore_/Icon_Library/offset3.png
+.GitIgnore_/Icon_Library/Okay.png
+.GitIgnore_/Icon_Library/onboardModule.png
+.GitIgnore_/Icon_Library/Open.png
+.GitIgnore_/Icon_Library/Open_File.png
+.GitIgnore_/Icon_Library/Open_File_32.png
+.GitIgnore_/Icon_Library/openArrow.png
+.GitIgnore_/Icon_Library/OpenLayers.png
+.GitIgnore_/Icon_Library/Operator2.png
+.GitIgnore_/Icon_Library/Operator2_10.png
+.GitIgnore_/Icon_Library/Options.png
+.GitIgnore_/Icon_Library/Oscilloscope.png
+.GitIgnore_/Icon_Library/oscilloscope2.png
+.GitIgnore_/Icon_Library/oscilloscope3.png
+.GitIgnore_/Icon_Library/Oscilloscope_16.png
+.GitIgnore_/Icon_Library/output.png
+.GitIgnore_/Icon_Library/overlay.png
+.GitIgnore_/Icon_Library/Palette.png
+.GitIgnore_/Icon_Library/panel.png
+.GitIgnore_/Icon_Library/panel2.png
+.GitIgnore_/Icon_Library/parallel_io.png
+.GitIgnore_/Icon_Library/parameters.png
+.GitIgnore_/Icon_Library/parent.png
+.GitIgnore_/Icon_Library/Pass.png
+.GitIgnore_/Icon_Library/pass2.png
+.GitIgnore_/Icon_Library/pass2_16.png
+.GitIgnore_/Icon_Library/pass2_48.png
+.GitIgnore_/Icon_Library/pass_32.png
+.GitIgnore_/Icon_Library/Password.png
+.GitIgnore_/Icon_Library/password_32.png
+.GitIgnore_/Icon_Library/Path.png
+.GitIgnore_/Icon_Library/path2.png
+.GitIgnore_/Icon_Library/pause.png
+.GitIgnore_/Icon_Library/PCB.png
+.GitIgnore_/Icon_Library/PCICard.png
+.GitIgnore_/Icon_Library/PCIe_16.png
+.GitIgnore_/Icon_Library/PCIe_32.png
+.GitIgnore_/Icon_Library/PDA.png
+.GitIgnore_/Icon_Library/Period.png
+.GitIgnore_/Icon_Library/period2.png
+.GitIgnore_/Icon_Library/period3.png
+.GitIgnore_/Icon_Library/permute.png
+.GitIgnore_/Icon_Library/phase.png
+.GitIgnore_/Icon_Library/physicalChannel.png
+.GitIgnore_/Icon_Library/PIDcontroller.png
+.GitIgnore_/Icon_Library/PIDcontroller_16.png
+.GitIgnore_/Icon_Library/Pin_in.png
+.GitIgnore_/Icon_Library/Pin_out.png
+.GitIgnore_/Icon_Library/Pinout.png
+.GitIgnore_/Icon_Library/pipe.png
+.GitIgnore_/Icon_Library/play.png
+.GitIgnore_/Icon_Library/Playback_Options.png
+.GitIgnore_/Icon_Library/plug.png
+.GitIgnore_/Icon_Library/plug_24.png
+.GitIgnore_/Icon_Library/Pm.png
+.GitIgnore_/Icon_Library/Point.png
+.GitIgnore_/Icon_Library/polar.png
+.GitIgnore_/Icon_Library/polar_small.png
+.GitIgnore_/Icon_Library/polarity.png
+.GitIgnore_/Icon_Library/pole_zero.png
+.GitIgnore_/Icon_Library/polynomial.png
+.GitIgnore_/Icon_Library/Popup_Menu.png
+.GitIgnore_/Icon_Library/Port.png
+.GitIgnore_/Icon_Library/position.png
+.GitIgnore_/Icon_Library/PostProcessing.png
+.GitIgnore_/Icon_Library/powerline.png
+.GitIgnore_/Icon_Library/powerMeter.png
+.GitIgnore_/Icon_Library/powerSwitch.png
+.GitIgnore_/Icon_Library/powerSwitch_16.png
+.GitIgnore_/Icon_Library/PPMU.png
+.GitIgnore_/Icon_Library/preferred.png
+.GitIgnore_/Icon_Library/previousPage.png
+.GitIgnore_/Icon_Library/Print.png
+.GitIgnore_/Icon_Library/print2.png
+.GitIgnore_/Icon_Library/print2_32.png
+.GitIgnore_/Icon_Library/PrintPreview.png
+.GitIgnore_/Icon_Library/PrintPreview_32.png
+.GitIgnore_/Icon_Library/private.png
+.GitIgnore_/Icon_Library/private_new.png
+.GitIgnore_/Icon_Library/Probe.png
+.GitIgnore_/Icon_Library/process.png
+.GitIgnore_/Icon_Library/Processor.png
+.GitIgnore_/Icon_Library/Progress_Bar.png
+.GitIgnore_/Icon_Library/properties.png
+.GitIgnore_/Icon_Library/property.png
+.GitIgnore_/Icon_Library/property2.png
+.GitIgnore_/Icon_Library/protect.png
+.GitIgnore_/Icon_Library/protected.png
+.GitIgnore_/Icon_Library/protected_new.png
+.GitIgnore_/Icon_Library/public.png
+.GitIgnore_/Icon_Library/public_new.png
+.GitIgnore_/Icon_Library/PulseWaveformModulation.png
+.GitIgnore_/Icon_Library/PulseWidth.png
+.GitIgnore_/Icon_Library/PXI_Chassis.png
+.GitIgnore_/Icon_Library/PXI_conditioning_device.png
+.GitIgnore_/Icon_Library/PXI_Controller.png
+.GitIgnore_/Icon_Library/PXI_target.png
+.GitIgnore_/Icon_Library/PXICard.png
+.GitIgnore_/Icon_Library/PXIController.png
+.GitIgnore_/Icon_Library/Query.png
+.GitIgnore_/Icon_Library/Queue.png
+.GitIgnore_/Icon_Library/queue_pair.png
+.GitIgnore_/Icon_Library/queue_priority.png
+.GitIgnore_/Icon_Library/queue_receive.png
+.GitIgnore_/Icon_Library/queue_send.png
+.GitIgnore_/Icon_Library/radiocontrolbutton.png
+.GitIgnore_/Icon_Library/radioMessage.png
+.GitIgnore_/Icon_Library/random_number.png
+.GitIgnore_/Icon_Library/read.png
+.GitIgnore_/Icon_Library/read2.png
+.GitIgnore_/Icon_Library/read3.png
+.GitIgnore_/Icon_Library/read_64.png
+.GitIgnore_/Icon_Library/Real_Time.png
+.GitIgnore_/Icon_Library/Reboot.png
+.GitIgnore_/Icon_Library/recalled.png
+.GitIgnore_/Icon_Library/recloser.png
+.GitIgnore_/Icon_Library/recloser_16.png
+.GitIgnore_/Icon_Library/recommended.png
+.GitIgnore_/Icon_Library/recommended_small.png
+.GitIgnore_/Icon_Library/record.png
+.GitIgnore_/Icon_Library/recordOFF.png
+.GitIgnore_/Icon_Library/recordON.png
+.GitIgnore_/Icon_Library/Rectangle.png
+.GitIgnore_/Icon_Library/RectangleFilled.png
+.GitIgnore_/Icon_Library/recursion.png
+.GitIgnore_/Icon_Library/red_light.png
+.GitIgnore_/Icon_Library/Redo.png
+.GitIgnore_/Icon_Library/reference_level.png
+.GitIgnore_/Icon_Library/refnum.png
+.GitIgnore_/Icon_Library/refnum_small.png
+.GitIgnore_/Icon_Library/Refresh.png
+.GitIgnore_/Icon_Library/Refresh2.png
+.GitIgnore_/Icon_Library/Refresh_32.png
+.GitIgnore_/Icon_Library/Region.png
+.GitIgnore_/Icon_Library/registry.png
+.GitIgnore_/Icon_Library/Relay.png
+.GitIgnore_/Icon_Library/remote.png
+.GitIgnore_/Icon_Library/Remote_Target.png
+.GitIgnore_/Icon_Library/RemoteServer.png
+.GitIgnore_/Icon_Library/RemoteServer_128.png
+.GitIgnore_/Icon_Library/remove.png
+.GitIgnore_/Icon_Library/rename.png
+.GitIgnore_/Icon_Library/rename2.png
+.GitIgnore_/Icon_Library/rename2_32.png
+.GitIgnore_/Icon_Library/Rendezvous.png
+.GitIgnore_/Icon_Library/repair.png
+.GitIgnore_/Icon_Library/Repeat.png
+.GitIgnore_/Icon_Library/resample.png
+.GitIgnore_/Icon_Library/reset.png
+.GitIgnore_/Icon_Library/reset2.png
+.GitIgnore_/Icon_Library/resistance.png
+.GitIgnore_/Icon_Library/resistor.png
+.GitIgnore_/Icon_Library/retarget.png
+.GitIgnore_/Icon_Library/revert.png
+.GitIgnore_/Icon_Library/Revision.png
+.GitIgnore_/Icon_Library/rf.png
+.GitIgnore_/Icon_Library/RGB.png
+.GitIgnore_/Icon_Library/rho.png
+.GitIgnore_/Icon_Library/ribbonPlot.png
+.GitIgnore_/Icon_Library/ring.png
+.GitIgnore_/Icon_Library/ring2.png
+.GitIgnore_/Icon_Library/rioCSeriesModule.png
+.GitIgnore_/Icon_Library/rioExpansionChassis.png
+.GitIgnore_/Icon_Library/robot.png
+.GitIgnore_/Icon_Library/roboticArm.png
+.GitIgnore_/Icon_Library/roboticArm_16.png
+.GitIgnore_/Icon_Library/rotaryCounter.png
+.GitIgnore_/Icon_Library/Rotate.png
+.GitIgnore_/Icon_Library/rotation.png
+.GitIgnore_/Icon_Library/rotation2.png
+.GitIgnore_/Icon_Library/Rotation_clockwise.png
+.GitIgnore_/Icon_Library/Rotation_counterclockwise.png
+.GitIgnore_/Icon_Library/route.png
+.GitIgnore_/Icon_Library/routegroup.png
+.GitIgnore_/Icon_Library/Routing.png
+.GitIgnore_/Icon_Library/rtm.png
+.GitIgnore_/Icon_Library/rtm_32.png
+.GitIgnore_/Icon_Library/rtsi_cable.png
+.GitIgnore_/Icon_Library/rumble.png
+.GitIgnore_/Icon_Library/run2.png
+.GitIgnore_/Icon_Library/saturation.png
+.GitIgnore_/Icon_Library/Save.png
+.GitIgnore_/Icon_Library/Save_24.png
+.GitIgnore_/Icon_Library/Save_32.png
+.GitIgnore_/Icon_Library/SaveAll.png
+.GitIgnore_/Icon_Library/SaveAll_32.png
+.GitIgnore_/Icon_Library/SaveAs.png
+.GitIgnore_/Icon_Library/SaveAs_32.png
+.GitIgnore_/Icon_Library/SaveLayers.png
+.GitIgnore_/Icon_Library/scale2.png
+.GitIgnore_/Icon_Library/scaling.png
+.GitIgnore_/Icon_Library/scan.png
+.GitIgnore_/Icon_Library/scan2.png
+.GitIgnore_/Icon_Library/scan3.png
+.GitIgnore_/Icon_Library/SCC_Carrier.png
+.GitIgnore_/Icon_Library/SCC_CheckIn.png
+.GitIgnore_/Icon_Library/SCC_CheckOut.png
+.GitIgnore_/Icon_Library/SCC_Module.png
+.GitIgnore_/Icon_Library/schedule.png
+.GitIgnore_/Icon_Library/schematic.png
+.GitIgnore_/Icon_Library/scroll.png
+.GitIgnore_/Icon_Library/SCXI_Module.png
+.GitIgnore_/Icon_Library/scxiModule.png
+.GitIgnore_/Icon_Library/scxiModuleAccessory.png
+.GitIgnore_/Icon_Library/SD_card.png
+.GitIgnore_/Icon_Library/SD_card_32.png
+.GitIgnore_/Icon_Library/Search.png
+.GitIgnore_/Icon_Library/search2.png
+.GitIgnore_/Icon_Library/search2_32.png
+.GitIgnore_/Icon_Library/Search3.png
+.GitIgnore_/Icon_Library/Search3_24.png
+.GitIgnore_/Icon_Library/SELECT.png
+.GitIgnore_/Icon_Library/select2.png
+.GitIgnore_/Icon_Library/Select_24.png
+.GitIgnore_/Icon_Library/select_all.png
+.GitIgnore_/Icon_Library/SelectPolygon.png
+.GitIgnore_/Icon_Library/self_test.png
+.GitIgnore_/Icon_Library/Semaphore.png
+.GitIgnore_/Icon_Library/send.png
+.GitIgnore_/Icon_Library/sensor.png
+.GitIgnore_/Icon_Library/sequence.png
+.GitIgnore_/Icon_Library/sequence2.png
+.GitIgnore_/Icon_Library/serial.png
+.GitIgnore_/Icon_Library/serial_io.png
+.GitIgnore_/Icon_Library/serialPort.png
+.GitIgnore_/Icon_Library/serialPort_larger.png
+.GitIgnore_/Icon_Library/server.png
+.GitIgnore_/Icon_Library/server_small.png
+.GitIgnore_/Icon_Library/service.png
+.GitIgnore_/Icon_Library/servo.png
+.GitIgnore_/Icon_Library/servo2.png
+.GitIgnore_/Icon_Library/set.png
+.GitIgnore_/Icon_Library/set_brackets.png
+.GitIgnore_/Icon_Library/setting.png
+.GitIgnore_/Icon_Library/settled.png
+.GitIgnore_/Icon_Library/Settling.png
+.GitIgnore_/Icon_Library/SGL.png
+.GitIgnore_/Icon_Library/Shallow_History.png
+.GitIgnore_/Icon_Library/ShiftRegister.png
+.GitIgnore_/Icon_Library/shipped.png
+.GitIgnore_/Icon_Library/Show_Details.png
+.GitIgnore_/Icon_Library/shunt.png
+.GitIgnore_/Icon_Library/SignalExpress.png
+.GitIgnore_/Icon_Library/SignalExpress_16.png
+.GitIgnore_/Icon_Library/SignalExpress_for_Tek.png
+.GitIgnore_/Icon_Library/SignalExpress_for_Tek_16.png
+.GitIgnore_/Icon_Library/signalGenerator.png
+.GitIgnore_/Icon_Library/signalProcessing.png
+.GitIgnore_/Icon_Library/sine.png
+.GitIgnore_/Icon_Library/single-boardRIO.png
+.GitIgnore_/Icon_Library/Size.png
+.GitIgnore_/Icon_Library/Size2.png
+.GitIgnore_/Icon_Library/slider.png
+.GitIgnore_/Icon_Library/slider2.png
+.GitIgnore_/Icon_Library/SmartCamera.png
+.GitIgnore_/Icon_Library/SmartCamera_32.png
+.GitIgnore_/Icon_Library/SMS.png
+.GitIgnore_/Icon_Library/snap.png
+.GitIgnore_/Icon_Library/Snapshot.png
+.GitIgnore_/Icon_Library/Snapshot2.png
+.GitIgnore_/Icon_Library/Snapshot2_16.png
+.GitIgnore_/Icon_Library/Snapshot2_32.png
+.GitIgnore_/Icon_Library/software.png
+.GitIgnore_/Icon_Library/Software2.png
+.GitIgnore_/Icon_Library/solenoid coil.png
+.GitIgnore_/Icon_Library/solenoid.png
+.GitIgnore_/Icon_Library/sonar.png
+.GitIgnore_/Icon_Library/sound.png
+.GitIgnore_/Icon_Library/sound_file.png
+.GitIgnore_/Icon_Library/sound_input.png
+.GitIgnore_/Icon_Library/sound_note.png
+.GitIgnore_/Icon_Library/sound_note2.png
+.GitIgnore_/Icon_Library/source.png
+.GitIgnore_/Icon_Library/sparseMatrix.png
+.GitIgnore_/Icon_Library/spectrum.png
+.GitIgnore_/Icon_Library/spectrumAnalyzer.png
+.GitIgnore_/Icon_Library/Spreadsheet.png
+.GitIgnore_/Icon_Library/Spreadsheet_Small.png
+.GitIgnore_/Icon_Library/square_root.png
+.GitIgnore_/Icon_Library/square_wave.png
+.GitIgnore_/Icon_Library/start.png
+.GitIgnore_/Icon_Library/State.png
+.GitIgnore_/Icon_Library/state_space.png
+.GitIgnore_/Icon_Library/state_transition.png
+.GitIgnore_/Icon_Library/Statechart.png
+.GitIgnore_/Icon_Library/stateDiagram.png
+.GitIgnore_/Icon_Library/Statistics.png
+.GitIgnore_/Icon_Library/Statistics2.png
+.GitIgnore_/Icon_Library/Status.png
+.GitIgnore_/Icon_Library/status2.png
+.GitIgnore_/Icon_Library/status_cancelled.png
+.GitIgnore_/Icon_Library/status_pending.png
+.GitIgnore_/Icon_Library/status_released.png
+.GitIgnore_/Icon_Library/steering.png
+.GitIgnore_/Icon_Library/steps.png
+.GitIgnore_/Icon_Library/stop.png
+.GitIgnore_/Icon_Library/stop2.png
+.GitIgnore_/Icon_Library/stop3.png
+.GitIgnore_/Icon_Library/string.png
+.GitIgnore_/Icon_Library/string2.png
+.GitIgnore_/Icon_Library/subframe.png
+.GitIgnore_/Icon_Library/Subtract.png
+.GitIgnore_/Icon_Library/sum.png
+.GitIgnore_/Icon_Library/support.png
+.GitIgnore_/Icon_Library/surfacePlot.png
+.GitIgnore_/Icon_Library/Sweep.png
+.GitIgnore_/Icon_Library/sweep2.png
+.GitIgnore_/Icon_Library/Switch.png
+.GitIgnore_/Icon_Library/switch2.png
+.GitIgnore_/Icon_Library/switch3.png
+.GitIgnore_/Icon_Library/switch3_small.png
+.GitIgnore_/Icon_Library/synchronization.png
+.GitIgnore_/Icon_Library/synchronous.png
+.GitIgnore_/Icon_Library/System.png
+.GitIgnore_/Icon_Library/System_Exec.png
+.GitIgnore_/Icon_Library/tab.png
+.GitIgnore_/Icon_Library/tabcontrol.png
+.GitIgnore_/Icon_Library/table.png
+.GitIgnore_/Icon_Library/tabs.png
+.GitIgnore_/Icon_Library/Tag.png
+.GitIgnore_/Icon_Library/tangent.png
+.GitIgnore_/Icon_Library/task.png
+.GitIgnore_/Icon_Library/TDM_File.png
+.GitIgnore_/Icon_Library/TDM_File_32.png
+.GitIgnore_/Icon_Library/TEDS.png
+.GitIgnore_/Icon_Library/telephone.png
+.GitIgnore_/Icon_Library/tempdir.png
+.GitIgnore_/Icon_Library/Temperature.png
+.GitIgnore_/Icon_Library/temperature2.png
+.GitIgnore_/Icon_Library/temperature3.png
+.GitIgnore_/Icon_Library/Terminal.png
+.GitIgnore_/Icon_Library/Test.png
+.GitIgnore_/Icon_Library/test2.png
+.GitIgnore_/Icon_Library/TestPanel_mac.png
+.GitIgnore_/Icon_Library/TestPanel_mac_16.png
+.GitIgnore_/Icon_Library/Teststand.png
+.GitIgnore_/Icon_Library/Teststand_16.png
+.GitIgnore_/Icon_Library/TestStand_48.png
+.GitIgnore_/Icon_Library/Text.png
+.GitIgnore_/Icon_Library/Text2.png
+.GitIgnore_/Icon_Library/Text3.png
+.GitIgnore_/Icon_Library/text_properties.png
+.GitIgnore_/Icon_Library/threads.png
+.GitIgnore_/Icon_Library/threshold.png
+.GitIgnore_/Icon_Library/time.png
+.GitIgnore_/Icon_Library/timedOut.png
+.GitIgnore_/Icon_Library/timedOut2.png
+.GitIgnore_/Icon_Library/timeElapsed.png
+.GitIgnore_/Icon_Library/TimeStep.png
+.GitIgnore_/Icon_Library/TimeTracker.png
+.GitIgnore_/Icon_Library/TimeTracker_48.png
+.GitIgnore_/Icon_Library/TIMING.png
+.GitIgnore_/Icon_Library/Timing_Source.png
+.GitIgnore_/Icon_Library/Toggle_Bit.png
+.GitIgnore_/Icon_Library/toolbar.png
+.GitIgnore_/Icon_Library/tools.png
+.GitIgnore_/Icon_Library/torque.png
+.GitIgnore_/Icon_Library/touch_panel_device.png
+.GitIgnore_/Icon_Library/training.png
+.GitIgnore_/Icon_Library/transition.png
+.GitIgnore_/Icon_Library/translation.png
+.GitIgnore_/Icon_Library/Transmit.png
+.GitIgnore_/Icon_Library/tree.png
+.GitIgnore_/Icon_Library/tree2.png
+.GitIgnore_/Icon_Library/tree_horizontal.png
+.GitIgnore_/Icon_Library/tree_horizontal_32.png
+.GitIgnore_/Icon_Library/tree_vertical.png
+.GitIgnore_/Icon_Library/tree_vertical_32.png
+.GitIgnore_/Icon_Library/trigger.png
+.GitIgnore_/Icon_Library/trigger2.png
+.GitIgnore_/Icon_Library/TV.png
+.GitIgnore_/Icon_Library/type.png
+.GitIgnore_/Icon_Library/Undo.png
+.GitIgnore_/Icon_Library/Undo2.png
+.GitIgnore_/Icon_Library/Undock_Help_Window.png
+.GitIgnore_/Icon_Library/ungroup.png
+.GitIgnore_/Icon_Library/Uninstaller.png
+.GitIgnore_/Icon_Library/Uninstaller_32.png
+.GitIgnore_/Icon_Library/Uninstaller_48.png
+.GitIgnore_/Icon_Library/unitialize.png
+.GitIgnore_/Icon_Library/UnknownData.png
+.GitIgnore_/Icon_Library/unlock.png
+.GitIgnore_/Icon_Library/unlock2.png
+.GitIgnore_/Icon_Library/unsupport.png
+.GitIgnore_/Icon_Library/unsupport_16.png
+.GitIgnore_/Icon_Library/up.png
+.GitIgnore_/Icon_Library/upconverter.png
+.GitIgnore_/Icon_Library/upload.png
+.GitIgnore_/Icon_Library/UpOneDirectory.png
+.GitIgnore_/Icon_Library/UpOneLevel.png
+.GitIgnore_/Icon_Library/URL.png
+.GitIgnore_/Icon_Library/USB.png
+.GitIgnore_/Icon_Library/USB_32.png
+.GitIgnore_/Icon_Library/user.png
+.GitIgnore_/Icon_Library/user_32.png
+.GitIgnore_/Icon_Library/User_Event.png
+.GitIgnore_/Icon_Library/usergroups.png
+.GitIgnore_/Icon_Library/usergroups_32.png
+.GitIgnore_/Icon_Library/users.png
+.GitIgnore_/Icon_Library/users_32.png
+.GitIgnore_/Icon_Library/utility2.png
+.GitIgnore_/Icon_Library/utility_small.png
+.GitIgnore_/Icon_Library/valid.png
+.GitIgnore_/Icon_Library/Variable.png
+.GitIgnore_/Icon_Library/Variable_Power_Supply.png
+.GitIgnore_/Icon_Library/VariablePowerSupply.png
+.GitIgnore_/Icon_Library/variance.png
+.GitIgnore_/Icon_Library/variant.png
+.GitIgnore_/Icon_Library/vector.png
+.GitIgnore_/Icon_Library/velocity.png
+.GitIgnore_/Icon_Library/vendor.png
+.GitIgnore_/Icon_Library/verify.png
+.GitIgnore_/Icon_Library/Veristand.png
+.GitIgnore_/Icon_Library/Veristand_16.png
+.GitIgnore_/Icon_Library/Veristand_256.png
+.GitIgnore_/Icon_Library/VI.png
+.GitIgnore_/Icon_Library/VI_32.png
+.GitIgnore_/Icon_Library/vi_template.png
+.GitIgnore_/Icon_Library/video.png
+.GitIgnore_/Icon_Library/Virtual_Channel.png
+.GitIgnore_/Icon_Library/VisaConfig.png
+.GitIgnore_/Icon_Library/VisaConfig_128.png
+.GitIgnore_/Icon_Library/visible.png
+.GitIgnore_/Icon_Library/visible2.png
+.GitIgnore_/Icon_Library/Vision.png
+.GitIgnore_/Icon_Library/Volts.png
+.GitIgnore_/Icon_Library/volume.png
+.GitIgnore_/Icon_Library/wait.png
+.GitIgnore_/Icon_Library/Wait2.png
+.GitIgnore_/Icon_Library/WaitOverlay.png
+.GitIgnore_/Icon_Library/Warning.png
+.GitIgnore_/Icon_Library/Warning2.png
+.GitIgnore_/Icon_Library/Warning2_16.png
+.GitIgnore_/Icon_Library/Warning2_32.png
+.GitIgnore_/Icon_Library/WarningOverlay.png
+.GitIgnore_/Icon_Library/waterfallPlot.png
+.GitIgnore_/Icon_Library/waterLevel.png
+.GitIgnore_/Icon_Library/watershed.png
+.GitIgnore_/Icon_Library/Waveform.png
+.GitIgnore_/Icon_Library/WebDownload.png
+.GitIgnore_/Icon_Library/wheel.png
+.GitIgnore_/Icon_Library/wheel_caster.png
+.GitIgnore_/Icon_Library/wheel_mecanum.png
+.GitIgnore_/Icon_Library/wheel_omnidirectional.png
+.GitIgnore_/Icon_Library/WhileLoop_32x32.png
+.GitIgnore_/Icon_Library/whiteNoise.png
+.GitIgnore_/Icon_Library/Wiimote.png
+.GitIgnore_/Icon_Library/Wiimote2.png
+.GitIgnore_/Icon_Library/window_16.png
+.GitIgnore_/Icon_Library/window_32.png
+.GitIgnore_/Icon_Library/window_cascade.png
+.GitIgnore_/Icon_Library/window_tile.png
+.GitIgnore_/Icon_Library/wired.png
+.GitIgnore_/Icon_Library/wired_32.png
+.GitIgnore_/Icon_Library/wireless.png
+.GitIgnore_/Icon_Library/wireless_32.png
+.GitIgnore_/Icon_Library/wirelessLAN.png
+.GitIgnore_/Icon_Library/wirelessLAN_32.png
+.GitIgnore_/Icon_Library/Wiring.png
+.GitIgnore_/Icon_Library/WNDCUST.png
+.GitIgnore_/Icon_Library/WNDCUST_16.png
+.GitIgnore_/Icon_Library/WNDDATA.png
+.GitIgnore_/Icon_Library/WNDDATA_16.png
+.GitIgnore_/Icon_Library/WNDGRAPH.png
+.GitIgnore_/Icon_Library/WNDGRAPH_16.png
+.GitIgnore_/Icon_Library/WndPorta.png
+.GitIgnore_/Icon_Library/WNDVIEW.png
+.GitIgnore_/Icon_Library/WNDVIEW_16.png
+.GitIgnore_/Icon_Library/wrapper.png
+.GitIgnore_/Icon_Library/write.png
+.GitIgnore_/Icon_Library/write2.png
+.GitIgnore_/Icon_Library/write_64.png
+.GitIgnore_/Icon_Library/wsnGateway.png
+.GitIgnore_/Icon_Library/wsnNode.png
+.GitIgnore_/Icon_Library/xctl.png
+.GitIgnore_/Icon_Library/xctl_32.png
+.GitIgnore_/Icon_Library/xnode.png
+.GitIgnore_/Icon_Library/xnode_32.png
+.GitIgnore_/Icon_Library/xy_graph.png
+.GitIgnore_/Icon_Library/yellow_light.png
+.GitIgnore_/Icon_Library/zip_file.png
+.GitIgnore_/Icon_Library/Zoom_1_1.png
+.GitIgnore_/Icon_Library/Zoom_in.png
+.GitIgnore_/Icon_Library/Zoom_out.png
+.GitIgnore_/Icon_Library/Zoom_to_Selection.png
+.GitIgnore_/Icon_Library/zoomAuto.png
+.GitIgnore_/Icon_Library/zoomReset.png
+.GitIgnore_/ini-parser-2.5.2.zip
+.GitIgnore_/NIVISA1800full.exe
+.GitIgnore_/packages/ini-parser.2.5.2/.signature.p7s
+.GitIgnore_/packages/ini-parser.2.5.2/ini-parser.2.5.2.nupkg
+.GitIgnore_/packages/ini-parser.2.5.2/lib/net20/INIFileParser.dll
+.GitIgnore_/packages/ini-parser.2.5.2/lib/net20/INIFileParser.dll.mdb
+.GitIgnore_/packages/ini-parser.2.5.2/lib/net20/INIFileParser.xml
+.GitIgnore_/Release Test/ACOPC.exe
+.GitIgnore_/Release Test/devices.ini
+.GitIgnore_/Release Test/INIFileParser.dll
+.GitIgnore_/Release Test/Release Test.zip
+.GitIgnore_/Release Test/Sounds/Err.wav
+.GitIgnore_/Release Test/Sounds/Ok.wav
+.GitIgnore_/Release Test/Sounds/Ok_.wav
+.GitIgnore_/Release Test/Sounds/Tuk.wav
+.GitIgnore_/Release Test/templates.ini
+.GitIgnore_/Release Test/ViInstrClasses.dll
+.GitIgnore_/Release Test/visa_dll.dll
+.GitIgnore_/Release.7z
+.GitIgnore_/ViInstrClasses/bin/Debug/netstandard1.4/ViInstrClasses.deps.json
+.GitIgnore_/ViInstrClasses/bin/Debug/netstandard1.4/ViInstrClasses.dll
+.GitIgnore_/ViInstrClasses/bin/Debug/netstandard1.4/ViInstrClasses.pdb
+.GitIgnore_/ViInstrClasses/bin/Release/netstandard1.4/ViInstrClasses.deps.json
+.GitIgnore_/ViInstrClasses/bin/Release/netstandard1.4/ViInstrClasses.dll
+.GitIgnore_/ViInstrClasses/bin/Release/netstandard1.4/ViInstrClasses.pdb
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/ViInstrClasses.AssemblyInfo.cs
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/ViInstrClasses.AssemblyInfoInputs.cache
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/ViInstrClasses.csproj.CoreCompileInputs.cache
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/ViInstrClasses.csproj.FileListAbsolute.txt
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/ViInstrClasses.csprojAssemblyReference.cache
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/ViInstrClasses.dll
+.GitIgnore_/ViInstrClasses/obj/Debug/netstandard1.4/ViInstrClasses.pdb
+.GitIgnore_/ViInstrClasses/obj/project.assets.json
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/ViInstrClasses.AssemblyInfo.cs
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/ViInstrClasses.AssemblyInfoInputs.cache
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/ViInstrClasses.csproj.CoreCompileInputs.cache
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/ViInstrClasses.csproj.FileListAbsolute.txt
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/ViInstrClasses.csprojAssemblyReference.cache
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/ViInstrClasses.dll
+.GitIgnore_/ViInstrClasses/obj/Release/netstandard1.4/ViInstrClasses.pdb
+.GitIgnore_/ViInstrClasses/obj/ViInstrClasses.csproj.nuget.cache
+.GitIgnore_/ViInstrClasses/obj/ViInstrClasses.csproj.nuget.g.props
+.GitIgnore_/ViInstrClasses/obj/ViInstrClasses.csproj.nuget.g.targets
+.GitIgnore_/ViInstrClasses/ViInstrClasses.cs
+.GitIgnore_/ViInstrClasses/ViInstrClasses.csproj
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~10~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~11~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~12~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~3~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~4~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~5~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~6~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~7~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~8~
+.GitIgnore_/VISA DLL/__history/dll_main.cpp.~9~
+.GitIgnore_/VISA DLL/__history/mydll.h.~1~
+.GitIgnore_/VISA DLL/__history/mydll.h.~2~
+.GitIgnore_/VISA DLL/__history/visa_dll.cbproj.local.~1~
+.GitIgnore_/VISA DLL/Debug/visa_dll.#00
+.GitIgnore_/VISA DLL/dll_main.cpp
+.GitIgnore_/VISA DLL/mydll.h
+.GitIgnore_/VISA DLL/Release/dll_main.obj
+.GitIgnore_/VISA DLL/Release/visa_dll.#00
+.GitIgnore_/VISA DLL/Release/visa_dll.dll
+.GitIgnore_/VISA DLL/Release/visa_dll.lib
+.GitIgnore_/VISA DLL/Release/visa_dll.map
+.GitIgnore_/VISA DLL/Release/visa_dll.pch
+.GitIgnore_/VISA DLL/Release/visa_dll.tds
+.GitIgnore_/VISA DLL/visa_dll.cbproj
+.GitIgnore_/VISA DLL/visa_dll.cbproj.local
+.GitIgnore_/АСОРС Classes/__history/Amplifier.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/Amplifier.cpp.~2~
+.GitIgnore_/АСОРС Classes/__history/Amplifier.cpp.~3~
+.GitIgnore_/АСОРС Classes/__history/Amplifier.cpp.~4~
+.GitIgnore_/АСОРС Classes/__history/Amplifier.h.~1~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~2~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~3~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~4~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~5~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~6~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~7~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~8~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.cpp.~9~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~17~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~18~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~19~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~20~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~21~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~22~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~23~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~24~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~25~
+.GitIgnore_/АСОРС Classes/__history/Analyzer.h.~26~
+.GitIgnore_/АСОРС Classes/__history/AnSub.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/AnSub.cpp.~2~
+.GitIgnore_/АСОРС Classes/__history/AnSub.h.~1~
+.GitIgnore_/АСОРС Classes/__history/AnSub.h.~2~
+.GitIgnore_/АСОРС Classes/__history/AnSub.h.~3~
+.GitIgnore_/АСОРС Classes/__history/AnSub.h.~4~
+.GitIgnore_/АСОРС Classes/__history/AnSub.h.~5~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~11~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~12~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~13~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~14~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~15~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~16~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~17~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~18~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~19~
+.GitIgnore_/АСОРС Classes/__history/ASORS.cpp.~20~
+.GitIgnore_/АСОРС Classes/__history/ASORS.dfm.~1~
+.GitIgnore_/АСОРС Classes/__history/ASORS.dfm.~2~
+.GitIgnore_/АСОРС Classes/__history/ASORS.dfm.~3~
+.GitIgnore_/АСОРС Classes/__history/ASORS.dfm.~4~
+.GitIgnore_/АСОРС Classes/__history/ASORS.dfm.~5~
+.GitIgnore_/АСОРС Classes/__history/ASORS.dfm.~6~
+.GitIgnore_/АСОРС Classes/__history/ASORS.dfm.~7~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~1~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~2~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~3~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~4~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~5~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~6~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~7~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~8~
+.GitIgnore_/АСОРС Classes/__history/ASORS.h.~9~
+.GitIgnore_/АСОРС Classes/__history/Common.h.~1~
+.GitIgnore_/АСОРС Classes/__history/Common.h.~2~
+.GitIgnore_/АСОРС Classes/__history/Common.h.~3~
+.GitIgnore_/АСОРС Classes/__history/Common.h.~4~
+.GitIgnore_/АСОРС Classes/__history/Common.h.~5~
+.GitIgnore_/АСОРС Classes/__history/Common.h.~6~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.cpp.~2~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.cpp.~3~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.cpp.~4~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.cpp.~5~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.cpp.~6~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.cpp.~7~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.cpp.~8~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.h.~1~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.h.~2~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.h.~3~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.h.~4~
+.GitIgnore_/АСОРС Classes/__history/Dispatcher.h.~5~
+.GitIgnore_/АСОРС Classes/__history/Generator.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/Generator.cpp.~2~
+.GitIgnore_/АСОРС Classes/__history/Generator.h.~1~
+.GitIgnore_/АСОРС Classes/__history/Generator.h.~2~
+.GitIgnore_/АСОРС Classes/__history/InstrumentSubSystem.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/InstrumentSubSystem.h.~1~
+.GitIgnore_/АСОРС Classes/__history/InstrumentSubSystem.h.~2~
+.GitIgnore_/АСОРС Classes/__history/MainForm.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/MainForm.cpp.~2~
+.GitIgnore_/АСОРС Classes/__history/MainForm.cpp.~3~
+.GitIgnore_/АСОРС Classes/__history/MainForm.cpp.~4~
+.GitIgnore_/АСОРС Classes/__history/MainForm.cpp.~5~
+.GitIgnore_/АСОРС Classes/__history/MainForm.cpp.~6~
+.GitIgnore_/АСОРС Classes/__history/MainForm.dfm.~1~
+.GitIgnore_/АСОРС Classes/__history/MainForm.dfm.~2~
+.GitIgnore_/АСОРС Classes/__history/MainForm.dfm.~3~
+.GitIgnore_/АСОРС Classes/__history/MainForm.h.~1~
+.GitIgnore_/АСОРС Classes/__history/MainForm.h.~2~
+.GitIgnore_/АСОРС Classes/__history/Mesure.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/Mesure.cpp.~2~
+.GitIgnore_/АСОРС Classes/__history/Mesure.h.~1~
+.GitIgnore_/АСОРС Classes/__history/Unit_CViInstrument.cpp.~1~
+.GitIgnore_/АСОРС Classes/__history/Unit_CViInstrument.h.~1~
+.GitIgnore_/АСОРС Classes/__history/Unit_CViInstrument.h.~2~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~61~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~62~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~63~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~64~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~65~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~66~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~67~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~68~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~69~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.cpp.~70~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~33~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~34~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~35~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~36~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~37~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~38~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~39~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~40~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~41~
+.GitIgnore_/АСОРС Classes/__history/ViInstrument.h.~42~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~10~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~11~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~12~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~13~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~14~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~15~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~16~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~17~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~8~
+.GitIgnore_/АСОРС Classes/__history/АСОРС.cpp.~9~
+.GitIgnore_/АСОРС Classes/AMP_AR.cpp
+.GitIgnore_/АСОРС Classes/AMP_AR.h
+.GitIgnore_/АСОРС Classes/AMP_BONN0101.cpp
+.GitIgnore_/АСОРС Classes/AMP_BONN0101.h
+.GitIgnore_/АСОРС Classes/AMP_BONN0125.cpp
+.GitIgnore_/АСОРС Classes/AMP_BONN0125.h
+.GitIgnore_/АСОРС Classes/Amplifier.cpp
+.GitIgnore_/АСОРС Classes/Amplifier.h
+.GitIgnore_/АСОРС Classes/Analyzer.cpp
+.GitIgnore_/АСОРС Classes/Analyzer.h
+.GitIgnore_/АСОРС Classes/AR_20ST1G18.cpp
+.GitIgnore_/АСОРС Classes/AR_20ST1G18.h
+.GitIgnore_/АСОРС Classes/ASORS.cpp
+.GitIgnore_/АСОРС Classes/ASORS.dfm
+.GitIgnore_/АСОРС Classes/ASORS.h
+.GitIgnore_/АСОРС Classes/Common.h
+.GitIgnore_/АСОРС Classes/Debug/Amplifier.obj
+.GitIgnore_/АСОРС Classes/Debug/Analyzer.obj
+.GitIgnore_/АСОРС Classes/Debug/AnSub.obj
+.GitIgnore_/АСОРС Classes/Debug/ASORS.obj
+.GitIgnore_/АСОРС Classes/Debug/Generator.obj
+.GitIgnore_/АСОРС Classes/Debug/InstrumentSubSystem.obj
+.GitIgnore_/АСОРС Classes/Debug/MainForm.obj
+.GitIgnore_/АСОРС Classes/Debug/ViInstrument.obj
+.GitIgnore_/АСОРС Classes/Debug/АСОРС.#00
+.GitIgnore_/АСОРС Classes/Debug/АСОРС.exe
+.GitIgnore_/АСОРС Classes/Debug/АСОРС.map
+.GitIgnore_/АСОРС Classes/Debug/АСОРС.obj
+.GitIgnore_/АСОРС Classes/Debug/АСОРС.tds
+.GitIgnore_/АСОРС Classes/Dispatcher.cpp
+.GitIgnore_/АСОРС Classes/Dispatcher.h
+.GitIgnore_/АСОРС Classes/DLL/VIGen/VIGen.cbproj
+.GitIgnore_/АСОРС Classes/DLL/VIGen/VIGen.cbproj.local
+.GitIgnore_/АСОРС Classes/DLL/VIGen/VIGen_main.cpp
+.GitIgnore_/АСОРС Classes/ExcelDoc.cpp
+.GitIgnore_/АСОРС Classes/ExcelDoc.h
+.GitIgnore_/АСОРС Classes/Generator.cpp
+.GitIgnore_/АСОРС Classes/Generator.h
+.GitIgnore_/АСОРС Classes/MainForm.cpp
+.GitIgnore_/АСОРС Classes/MainForm.dfm
+.GitIgnore_/АСОРС Classes/MainForm.h
+.GitIgnore_/АСОРС Classes/Mesure.cpp
+.GitIgnore_/АСОРС Classes/Mesure.h
+.GitIgnore_/АСОРС Classes/Monitor.cpp
+.GitIgnore_/АСОРС Classes/Monitor.h
+.GitIgnore_/АСОРС Classes/npp.session
+.GitIgnore_/АСОРС Classes/npp2.session
+.GitIgnore_/АСОРС Classes/npp_home.session
+.GitIgnore_/АСОРС Classes/pic/images.jpeg
+.GitIgnore_/АСОРС Classes/pic/images1.jpeg
+.GitIgnore_/АСОРС Classes/pic/PLANE.ICO
+.GitIgnore_/АСОРС Classes/ViInstrument.cpp
+.GitIgnore_/АСОРС Classes/ViInstrument.h
+.GitIgnore_/АСОРС Classes/ViInstrument.rar
+.GitIgnore_/АСОРС Classes/VISA/82350.pdf
+.GitIgnore_/АСОРС Classes/VISA/install.pdf
+.GitIgnore_/АСОРС Classes/VISA/wnk0100.exe
+.GitIgnore_/АСОРС Classes/АСОРС.cbproj
+.GitIgnore_/АСОРС Classes/АСОРС.cbproj.local
+.GitIgnore_/АСОРС Classes/АСОРС.cpp
+.GitIgnore_/АСОРС Classes/АСОРС.res
+.GitIgnore_/АСОРС Classes/АСОРС_Icon.ico
+.GitIgnore_/АСОРС Classes/Информация/1-24 МГц_5_11_2012.xls
+.GitIgnore_/АСОРС Classes/Информация/100-18000 МГц_5_11_2012.xls
+.GitIgnore_/АСОРС Classes/Информация/10ST1G18.pdf
+.GitIgnore_/АСОРС Classes/Информация/Agile Coherent Synthesizer.pdf
+.GitIgnore_/АСОРС Classes/Информация/Agilent Programming Commands.pdf
+.GitIgnore_/АСОРС Classes/Информация/Agilent Spectrum Analyzer.pdf
+.GitIgnore_/АСОРС Classes/Информация/E8251-90256.pdf
+.GitIgnore_/АСОРС Classes/Информация/FSP_OpMa_en.pdf
+.GitIgnore_/АСОРС Classes/Информация/measure2/Measure.#00
+.GitIgnore_/АСОРС Classes/Информация/measure2/Measure.pch
+.GitIgnore_/АСОРС Classes/Информация/SCPI Programming Manual.pdf
+.GitIgnore_/АСОРС Classes/Информация/Source Subsystem - Agilent Technologies.pdf
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AdditionalAnalizer.cpp.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AdditionalAnalizer.dfm.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AdditionalAnalizer.dfm.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AdditionalAnalizer.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~399~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~400~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~401~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~402~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~403~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~404~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~405~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~406~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~407~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.cpp.~408~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~100~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~101~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~102~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~103~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~104~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~95~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~96~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~97~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~98~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.dfm.~99~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~35~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~36~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~37~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~38~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~39~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~40~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~41~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~42~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~43~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/AmplifiersControl.h.~44~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~13~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~14~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~15~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.cpp.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.dfm.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~13~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~14~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~15~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Debug.h.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.cpp.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~13~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~14~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~15~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.dfm.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.h.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Faults.h.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/FormFake.cpp.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/FormFake.cpp.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/FormFake.dfm.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/FormFake.dfm.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/FormFake.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/FormFake.h.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/FormFake.h.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/frmFake.cpp.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/frmFake.cpp.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/frmFake.cpp.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/frmFake.cpp.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/frmFake.dfm.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/frmFake.dfm.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/frmFake.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/frmFake.h.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~13~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.bdsproj.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~13~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~14~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Measure.cpp.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~39~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~40~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~41~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~42~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~43~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~44~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~45~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~46~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~47~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.cpp.~48~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~13~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~14~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~15~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~16~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.dfm.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~10~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~11~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~12~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~13~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Monitor.h.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.bdsproj.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.bdsproj.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.bdsproj.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.bdsproj.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.bdsproj.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.bdsproj.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.bdsproj.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.cpp.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.cpp.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.cpp.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.cpp.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.cpp.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/ProjectMeasure1.cpp.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~967~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~968~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~969~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~970~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~971~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~972~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~973~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~974~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~975~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~976~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~977~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~978~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~979~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~980~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~981~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~982~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.cpp.~983~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~236~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~237~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~238~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~239~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~240~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~241~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~242~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~243~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~244~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~245~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~246~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~247~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.dfm.~248~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~104~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~105~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~106~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~107~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~108~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~109~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~110~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~111~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~112~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~113~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit1.h.~114~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~500~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~501~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~502~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~503~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~504~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~505~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~506~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~507~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~508~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~509~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~510~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.cpp.~511~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~189~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~190~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~191~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~192~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~193~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~194~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~195~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~196~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~197~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.dfm.~198~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~109~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~110~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~111~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~112~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~113~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~114~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~115~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~116~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~117~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit2.h.~118~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~17~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~18~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~19~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~20~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~21~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~22~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~23~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~24~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~25~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.cpp.~26~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.dfm.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.dfm.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.dfm.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.dfm.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit3.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.cpp.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.cpp.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.cpp.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.cpp.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.cpp.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.cpp.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.dfm.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.dfm.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.dfm.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.dfm.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit4.h.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit5.cpp.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit5.dfm.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit5.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit7.dfm.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit7.dfm.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit7.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.cpp.~9~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.dfm.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.dfm.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.dfm.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.dfm.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.dfm.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.dfm.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.dfm.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.h.~1~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.h.~2~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.h.~3~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.h.~4~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.h.~5~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.h.~6~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.h.~7~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/__history/Unit8.h.~8~
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/AdditionalAnalizer.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/AdditionalAnalizer.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/AdditionalAnalizer.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/AmplifiersControl.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/AmplifiersControl.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/AmplifiersControl.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/AmplifiersControl.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Debug.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Faults.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Measure.exe
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Measure.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Measure.tds
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Memo1.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/options.ini
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Unit1.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Unit2.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Unit3.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Unit4.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Unit6.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Debug/Unit7.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Faults.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Faults.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Faults.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/FormFake.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/FormFake.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/FormFake.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/HAMMER.ICO
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/limits.ini
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Measure.#00
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Measure.bdsproj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Measure.bdsproj.local
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Measure.cbproj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Measure.cbproj.local
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Measure.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Measure.res
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Measure.tds
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/measure2.rar
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Monitor.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Monitor.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Monitor.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/options.ini
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/PLANE.ICO
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/AdditionalAnalizer.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/AmplifiersControl.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Debug.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/ExcelDoc.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Faults.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Measure.exe
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Measure.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Measure.tds
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/options.ini
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Unit1.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Unit2.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Unit3.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Unit4.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Unit6.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Release/Unit7.obj
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit1.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit1.ddp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit1.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit1.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit2.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit2.ddp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit2.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit2.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit3.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit3.ddp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit3.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit3.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit4.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit4.ddp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit4.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit4.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit5.ddp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit6.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit6.ddp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit6.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit6.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit7.cpp
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit7.dfm
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Unit7.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/visa.h
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/WRENCH.ICO
+.GitIgnore_/АСОРС Classes/Информация/Старая версия/Копия Unit2.cpp
